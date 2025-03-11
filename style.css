@@ -393,6 +393,7 @@ body {
   flex-direction: column;
   background-image: url(images/banner/b17.jpg);
   min-width: 580px;
+  width: 49%;
   height: 50vh;
   background-size: cover;
   background-position: center;
